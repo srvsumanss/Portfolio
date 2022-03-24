@@ -1,6 +1,6 @@
 export const projects = [
 	{
-		img: 'https://scontent.fdel4-1.fna.fbcdn.net/v/t39.30808-6/275920998_4870353693082213_6775265599396865041_n.jpg?_nc_cat=106&ccb=1-5&_nc_sid=730e14&_nc_ohc=wtuGL4fR_bYAX91rXxr&_nc_ht=scontent.fdel4-1.fna&oh=00_AT-eLShYQNFxWZl6q46IDdUc7OlD_sY2tp5rNccbZlT_RQ&oe=6236D7DF',
+		img: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEivwX0JdjoqlqjFOA9M4Bfc4FyGQC4F7PtQ&usqp=CAU',
 		title: 'HookMake-Up Clone',
 		des: 'HOK MAKEUP is the easiest way to buy international makeup brands in India. 100% genuine products sourced directly from the brands. This was a collaborative project made by 6 members within 5 days.My role was in this project to develop a checkout page where users fill their personal information and get delivery address and make payment by using credit card , UPI,Debit Card.',
 		demo: '',
@@ -9,7 +9,7 @@ export const projects = [
 		technologies: ['HTML','Javascript', 'Nodejs',"Express" ,'CSS'],
 	},
 	{
-		img: 'https://scontent.fdel4-1.fna.fbcdn.net/v/t39.30808-6/275891407_4873251142792468_9035815513820849921_n.jpg?_nc_cat=108&ccb=1-5&_nc_sid=730e14&_nc_ohc=XgcPWAEezt4AX-_f6z9&_nc_ht=scontent.fdel4-1.fna&oh=00_AT-04oz4xn2YYopBcR_HXpOfR2Ua6JaUeV2aU4w5EtJ62Q&oe=62379C14',
+		img: 'https://www.reviewsxp.com/blog/wp-content/uploads/2018/02/Uniqlo.png',
 		title: 'Uniqlo Clone',
 		des: 'UNIQLO is a Japanese company that ensures it provides casual clothes for all kinds of people.This was a collaborative project made by 6 members within 5 days days .My role was in this project to make Sign-Up and Log in page where new create their account bu using email id mobile no. user authentication .', 
 		
