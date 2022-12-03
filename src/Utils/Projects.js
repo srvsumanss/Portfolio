@@ -7,6 +7,7 @@ export const projects = [
 		live: 'https://hokmakeup-clone.vercel.app/',
 		gitHub: 'https://github.com/srvsumanss/HOKMAKEUP-clone',
 		technologies: ['HTML','Javascript', 'Nodejs',"Express" ,'CSS'],
+
 	},
 	{
 		img: 'https://www.reviewsxp.com/blog/wp-content/uploads/2018/02/Uniqlo.png',
@@ -14,9 +15,10 @@ export const projects = [
 		des: 'UNIQLO is a Japanese company that ensures it provides casual clothes for all kinds of people.This was a collaborative project made by 6 members within 5 days days .My role was in this project to make Sign-Up and Log in page where new create their account bu using email id mobile no. user authentication .', 
 		
 		demo: '',
-		 live: 'https://uniqlo-clone.netlify.app/',
+		 live: 'https://jocular-hummingbird-b42f71.netlify.app/' ,
 		gitHub: 'https://github.com/srvsumanss/uniqlo-clone-masai-unit-3-project',
 		technologies: ['Express', 'MongoDb', 'HTML', 'CSS', 'Ejs',"JavaScript","Bootstrap"],
+		
 	}
 	
 ];
